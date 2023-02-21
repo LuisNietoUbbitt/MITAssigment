@@ -1,2 +1,4 @@
-# MITAssigment
-MITAssigment
+<html>
+<h1> This is my first page with GitHub Pages </h1>
+<p>Thanks GitHub!</p>
+</html>
